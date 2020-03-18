@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thineibei.ganadaproject.com/sitemap.xml
